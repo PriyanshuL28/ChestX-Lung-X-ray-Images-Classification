@@ -9,7 +9,6 @@ This repository contains a deep learning model for classifying chest X-ray image
 4. [Clustering](#clustering)
 5. [CNN Model](#cnn-model)
 6. [Results](#results)
-9. [License](#license)
 
 ## Introduction
 
@@ -94,10 +93,6 @@ The dataset used in this project is a combination of publicly available chest X-
 - NumPy
 - Matplotlib
 - Scikit-learn
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
